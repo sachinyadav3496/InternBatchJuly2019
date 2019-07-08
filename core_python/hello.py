@@ -1,0 +1,10 @@
+﻿#script
+print("*"*60)
+print("*"*60)
+print()
+print("Hello World to Python")
+name = input("Enter your name : ")
+print(f"Welcome user {name}, Python is Awesome")
+print()
+print("*"*60)
+print("*"*60)
